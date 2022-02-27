@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZNgInzKnGHau2uD9TJf4HZYGh1GA4/kCTSlcjDHyti/PugwXSI5twnQprVcz+HUWs7FmdtQKU2OW/owMSDDLw==",
+  "success": true,
+  "projectFilePath": "/Users/eymenyaci/Desktop/restfulApi/getJsonPlaceHolder/getJsonPlaceHolder/getJsonPlaceHolder.csproj",
+  "expectedPackageFiles": [
+    "/Users/eymenyaci/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",
+    "/Users/eymenyaci/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/eymenyaci/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

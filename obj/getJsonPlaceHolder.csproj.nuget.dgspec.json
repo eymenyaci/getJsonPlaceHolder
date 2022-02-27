@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eymenyaci/Desktop/restfulApi/getJsonPlaceHolder/getJsonPlaceHolder/getJsonPlaceHolder.csproj": {}
+  },
+  "projects": {
+    "/Users/eymenyaci/Desktop/restfulApi/getJsonPlaceHolder/getJsonPlaceHolder/getJsonPlaceHolder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eymenyaci/Desktop/restfulApi/getJsonPlaceHolder/getJsonPlaceHolder/getJsonPlaceHolder.csproj",
+        "projectName": "getJsonPlaceHolder",
+        "projectPath": "/Users/eymenyaci/Desktop/restfulApi/getJsonPlaceHolder/getJsonPlaceHolder/getJsonPlaceHolder.csproj",
+        "packagesPath": "/Users/eymenyaci/.nuget/packages/",
+        "outputPath": "/Users/eymenyaci/Desktop/restfulApi/getJsonPlaceHolder/getJsonPlaceHolder/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eymenyaci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
